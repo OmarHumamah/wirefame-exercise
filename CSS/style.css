@@ -30,8 +30,11 @@ a {
     float: left;
     font-weight: bold;
 }
-[alt=first], article{
+[alt=first]{
     margin: 0 90px;
+}
+article{
+    margin: 0 200px;
 }
 section{
     margin: 0 80px;
